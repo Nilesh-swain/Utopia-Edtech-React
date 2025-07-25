@@ -5,7 +5,7 @@ import search from '../assets/search.png' // Assuming you have a search icon in 
 const navbar = () => {
     return (
         <>
-            <div className='bg-zinc-950 h-18 p-4 pl-30 flex item-center '>
+            <div className='bg-zinc-950 h-18 p-4 pl-30 flex item-center position-sticky '>
                 <img className='h-8 pt-1 flex items-center cursor-pointer' src={logo} alt="" />
 
 
