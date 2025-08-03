@@ -7,6 +7,7 @@ import ThirdBody from './component/thirdbody'
 import FourthBody from './component/fourthbody'
 import FifthBody from './component/fifthbody'
 import SisthBody from './component/sisthbody'
+import Last from './component/last'
 
 const App = () => {
   return (
@@ -18,6 +19,7 @@ const App = () => {
       <FourthBody/>
       <FifthBody/>
       <SisthBody/>
+      <Last/>
     </div>
   )
 }
