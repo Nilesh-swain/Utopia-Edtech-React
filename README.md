@@ -1,12 +1,32 @@
-# React + Vite
+# Utopia-Edtech-React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Your sleek foundation for a modern Ed-Tech platform. Clean. Fast. Feature-ready.**
 
-Currently, two official plugins are available:
+Built with React + Vite and styled to perfection with TailwindCSS. Designed for students, educators, and digital academies that demand speed with style.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+##  Why Utopia?
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Because education deserves platforms that are intuitive, polished, and lightning-fast. Utopia connects ideas to delivery without the fluff.
+
+---
+
+##  Tech Stack
+
+| Layer        | Technologies & Purpose                                      |
+|--------------|-------------------------------------------------------------|
+| **Frontend** | React powered by Vite for blazing-fast dev and builds       |
+| **Styling**  | TailwindCSS — utility-first, no unnecessary CSS baggage     |
+| **Linting**  | ESLint (via `eslint.config.js`) to keep your code clean     |
+| **Config**   | `vite.config.js`, ESLint rules, and Tailwind config all in place |
+
+---
+
+##  Quick Start
+
+```bash
+git clone https://github.com/Nilesh-swain/Utopia-Edtech-React.git
+cd Utopia-Edtech-React
+npm install
+npm run dev
